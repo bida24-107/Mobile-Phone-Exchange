@@ -11,6 +11,9 @@ nav{
     height: 100px;
     background-color: #3cbaf9;
 }
+.logo{ 
+      width:80%;
+      height:80px;}
 
 ul { 
      margin-left: 60px;
